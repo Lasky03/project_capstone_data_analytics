@@ -53,6 +53,5 @@ Following the 6 steps of the data analysis process:
 ---
 
 ## 📂 Files
-- `cyclistic_analysis.Rmd` – Full R analysis script
+- `notebooks/cyclistic_analysis.Rmd` – Full R analysis script
 - `cyclistic_report.pdf` – Summary report
-- `notebooks/cyclistic_insights.ipynb` – Jupyter Notebook (if using Python)
