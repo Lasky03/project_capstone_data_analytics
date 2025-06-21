@@ -15,7 +15,7 @@ Cyclistic’s marketing team wants to better understand how annual members and c
 ## 🛠 Tools Used
 - **Spreadsheet (Google Sheets / Excel)**
 - **SQL (BigQuery)**
-- **R (tidyverse )**
+- **R (tidyverse)**
 - **Tableau / Data Studio** for visualization
 
 ---
